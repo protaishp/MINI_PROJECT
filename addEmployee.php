@@ -13,7 +13,7 @@ if(!isset($_SESSION['user_login'])){
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Employee Registration | Home</title>
+	<title>Page Of Employee Registration | Home</title>
 	<link rel="stylesheet" type="text/css" href="css/style.css">
 
 </head>
