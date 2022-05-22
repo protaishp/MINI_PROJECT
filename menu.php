@@ -7,7 +7,7 @@
 		<li><a href="home.php">Home</a></li>
 		<li>Employee Mgt
 			<ul style="opacity: .8;overflow: hidden;">
-				<li><a href="addEmployee.php">Add Employee</a></li>
+				<li><a href="addEmployee.php">Add Employees</a></li>
 				<li><a href="home.php">View Employee</a></li>
 			</ul>
 		</li>
