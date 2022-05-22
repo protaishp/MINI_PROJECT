@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Employee Management | Login Form</title>
+	<title>Employee Managements | Login Form</title>
 	<link rel="stylesheet" type="text/css" href="css/style.css">
 	<!-- <style>
 		.loginMsg{
