@@ -20,7 +20,7 @@ if(!isset($_SESSION['user_login'])){
 <?php require_once 'menu.php';?>
 <div class="head-top">
 	<h2 style="right: 10px;color: #fff;text-align: center;">
-			Employee Registration System
+			Employees Registration System
 			<?php }?></h2>
 </div>
 
